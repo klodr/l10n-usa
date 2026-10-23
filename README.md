@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [account_banking_ach_credit_transfer](account_banking_ach_credit_transfer/) | 18.0.1.0.0 |  | Create ACH files for Credit Transfers
 [account_banking_ach_direct_debit](account_banking_ach_direct_debit/) | 18.0.1.0.0 |  | Create ACH files for Direct Debit
 [l10n_us_account_routing](l10n_us_account_routing/) | 18.0.1.0.0 |  | Add the routing numbers to the banks
+[l10n_us_account_invoice_import](l10n_us_account_invoice_import/) | 18.0.1.0.0 |  | Match US vendors by EIN when importing vendor bills
 [l10n_us_base_county](l10n_us_base_county/) | 18.0.0.0.0 |  | Add United States counties.
 [l10n_us_crm_county](l10n_us_crm_county/) | 18.0.0.0.0 |  | Add United States counties to leads.
 [l10n_us_form_1099](l10n_us_form_1099/) | 18.0.1.0.1 | <a href='https://github.com/max3903'><img src='https://github.com/max3903.png' width='32' height='32' style='border-radius:50%;' alt='max3903'/></a> | Manage 1099 Types and Suppliers
